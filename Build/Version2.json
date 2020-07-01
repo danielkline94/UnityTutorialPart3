@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity Tutorial 2D Part 3",
+"productVersion": "0.1",
+"dataUrl": "Version2.data.unityweb",
+"wasmCodeUrl": "Version2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Version2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
